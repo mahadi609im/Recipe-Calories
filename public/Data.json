@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "img": "https://i.ibb.co/7Jdh0HN/item2.png",
+    "title": "Beef Stew",
+    "description": "A hearty beef stew made with tender meat and vegetables, perfect for a cozy dinner.",
+    "ingredients": [
+      "500g ground beef",
+      "1Kg onions, chopped",
+      "2 cloves garlic, minced"
+    ],
+    "minutes": 45,
+    "calories": 800
+  },
+  {
+    "id": 2,
+    "img": "https://i.ibb.co/ctYpChf/item1.png",
+    "title": "Chicken Stir Fry",
+    "description": "A quick and healthy chicken stir fry with vegetables and a savory sauce.",
+    "ingredients": [
+      "300g chicken breast, sliced",
+      "1 bell pepper, sliced",
+      "2 tbsp soy sauce",
+      "1 onion, sliced"
+    ],
+    "minutes": 30,
+    "calories": 600
+  },
+  {
+    "id": 3,
+    "img": "https://i.ibb.co/p3bTDWt/item3.jpg",
+    "title": "Vegetable Soup",
+    "description": "A light and nutritious vegetable soup with a variety of fresh vegetables.",
+    "ingredients": [
+      "2 carrots, chopped",
+      "1 potato, diced",
+      "1 zucchini, chopped",
+      "1 cup vegetable broth",
+      "1 tsp thyme leaves"
+    ],
+    "minutes": 35,
+    "calories": 400
+  },
+  {
+    "id": 4,
+    "img": "https://i.ibb.co/nP4P7VZ/item4.jpg",
+    "title": "Grilled Salmon",
+    "description": "Grilled salmon served with a tangy lemon dill sauce.",
+    "ingredients": [
+      "2 salmon fillets",
+      "1 lemon, sliced",
+      "2 tbsp olive oil",
+      "1 tsp garlic powder",
+      "1 tsp paprika"
+    ],
+    "minutes": 25,
+    "calories": 700
+  },
+  {
+    "id": 5,
+    "img": "https://i.ibb.co.com/sRjkxVC/items5.jpg",
+    "title": "Spaghetti Bolognese",
+    "description": "A classic Italian pasta dish with a rich and savory meat sauce.",
+    "ingredients": [
+      "300g spaghetti",
+      "400g minced beef",
+      "1 cup marinara sauce"
+    ],
+    "minutes": 40,
+    "calories": 750
+  },
+  {
+    "id": 6,
+    "img": "https://i.ibb.co.com/vwYMhBr/item6.jpg",
+    "title": "Pancakes with Berries",
+    "description": "Fluffy pancakes topped with fresh berries and a drizzle of maple syrup.",
+    "ingredients": [
+      "1 cup all-purpose flour",
+      "1 cup milk",
+      "1/2 cup mixed berries",
+      "1 egg"
+    ],
+    "minutes": 20,
+    "calories": 500
+  }
+]
